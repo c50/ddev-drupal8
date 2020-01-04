@@ -144,3 +144,5 @@ To prevent this you can add this code to specify the PHP version you want to use
 },
 ```
 # ddev-c50
+
+This repository was generated using [ddev v1.12](https://github.com/drud/ddev)
